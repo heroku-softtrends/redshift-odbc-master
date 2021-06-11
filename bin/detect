@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "redshift-odbc"
+exit 0
